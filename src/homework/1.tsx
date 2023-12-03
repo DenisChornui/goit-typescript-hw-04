@@ -1,6 +1,5 @@
 import React, { useEffect, useRef } from "react";
 
-
 type Props = {
   children: React.ReactNode;
   onContentEndVisible: () => void;
